@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Dookyung Kim</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on Dookyung Kim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why do I run this blog?</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Sun, 04 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>Reproducible Research 3년 전부터 파이썬을 사용하여 데이터분석 업무를 해오다가 최근에는 데이터 크롤링과 일부 Python이 적합한 업무 외에는 주로 R을 많이 활용하고 있다.</description>
+    </item>
+    
+  </channel>
+</rss>
